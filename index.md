@@ -14,4 +14,3 @@ OOP solution for a collision based graphics space shooter game.
 
 ## C++ Projects
 
-nice
