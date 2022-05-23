@@ -2,6 +2,8 @@
 
 2022 Programming projects for Processing and C++.
 
+Contact Information: rylek.jstaker@gmail.com
+
 ## Processing Projects
 
 ### SpaceGame
@@ -20,7 +22,7 @@ OOP solution for a collision based graphics space shooter game.
 
 A Program that performs simple aritmetic operations on numbers like a basic calculator.
 
-![Calculator]()
+![Calculator](https://github.com/RylekStaker/programmingportfolio2021-2022/blob/gh-pages/images/Calculator.png?raw=true)
 
 [Source Code](https://github.com/RylekStaker/programmingportfolio2021-2022/blob/gh-pages/src/Calculator.zip)
 
