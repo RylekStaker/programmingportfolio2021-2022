@@ -2,8 +2,6 @@
 
 2022 Programming projects for Processing and C++.
 
-Contact Information: rylek.jstaker@gmail.com
-
 ## Processing Projects
 
 ### SpaceGame
