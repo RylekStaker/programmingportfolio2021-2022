@@ -14,5 +14,15 @@ OOP solution for a collision based graphics space shooter game.
 
 [Source Code](https://github.com/RylekStaker/programmingportfolio2021-2022/blob/gh-pages/src/SpaceGame.zip)
 
+### Calculator
+
+## Completed Winter of 2021
+
+A Program that performs simple aritmetic operations on numbers like a basic calculator.
+
+![Calculator]()
+
+[Source Code]()
+
 ## C++ Projects
 
