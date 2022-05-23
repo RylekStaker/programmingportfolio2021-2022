@@ -1,5 +1,7 @@
 # Rylek Staker's Programming Portfolio
 
+Contact Info: rylek.jstaker@gmail.com
+
 2022 Programming projects for Processing and C++.
 
 ## Processing Projects
