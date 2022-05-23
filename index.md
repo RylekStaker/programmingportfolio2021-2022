@@ -6,7 +6,7 @@
 
 ### SpaceGame
 
-## Completed Winter of 2021
+#### Completed Winter of 2021
 
 OOP solution for a collision based graphics space shooter game.
 
@@ -16,7 +16,7 @@ OOP solution for a collision based graphics space shooter game.
 
 ### Calculator
 
-## Completed Winter of 2021
+#### Completed Winter of 2021
 
 A Program that performs simple aritmetic operations on numbers like a basic calculator.
 
