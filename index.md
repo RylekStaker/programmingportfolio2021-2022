@@ -16,7 +16,7 @@ Basic Hangman program on command line. Guess the secret word before you run out 
 
 * [Source Code](https://github.com/RylekStaker/programmingportfolio2021-2022/blob/gh-pages/src/FallGuy.cpp)
 
-## Processing Projects
+# Processing Projects
 
 ### SpaceGame
 
@@ -38,7 +38,7 @@ A Program that performs simple aritmetic operations on numbers like a basic calc
 
 * [Source Code](https://github.com/RylekStaker/programmingportfolio2021-2022/blob/gh-pages/src/Calculator.zip)
 
-## C++ Projects
+# C++ Projects
 
 ### Pig Latin Converter
 
