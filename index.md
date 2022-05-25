@@ -10,7 +10,7 @@ Contact Info: rylek.jstaker@gmail.com
 
 #### Completed Spring of 2022
 
-Basic Hangman Program. Guess the secret word before you run out of guesses.
+Basic Hangman program on command line. Guess the secret word before you run out of guesses.
 
 ![FallGuy](https://github.com/RylekStaker/programmingportfolio2021-2022/blob/gh-pages/images/FallGuy.png?raw=true)
 
