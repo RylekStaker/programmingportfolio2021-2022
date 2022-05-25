@@ -26,7 +26,7 @@ OOP solution for a collision based graphics space shooter game.
 
 ![SpaceGame](https://github.com/RylekStaker/programmingportfolio2021-2022/blob/gh-pages/images/SpaceGame.png?raw=true)
 
-[Source Code](https://github.com/RylekStaker/programmingportfolio2021-2022/blob/gh-pages/src/SpaceGame.zip)
+* [Source Code](https://github.com/RylekStaker/programmingportfolio2021-2022/blob/gh-pages/src/SpaceGame.zip)
 
 ### Calculator
 
@@ -36,7 +36,7 @@ A Program that performs simple aritmetic operations on numbers like a basic calc
 
 ![Calculator](https://github.com/RylekStaker/programmingportfolio2021-2022/blob/gh-pages/images/Calculator.png?raw=true)
 
-[Source Code](https://github.com/RylekStaker/programmingportfolio2021-2022/blob/gh-pages/src/Calculator.zip)
+* [Source Code](https://github.com/RylekStaker/programmingportfolio2021-2022/blob/gh-pages/src/Calculator.zip)
 
 ## C++ Projects
 
@@ -48,5 +48,5 @@ A Command line program that will convert any word to Pig Latin.
 
 ![PigLatinConverter](https://github.com/RylekStaker/programmingportfolio2021-2022/blob/gh-pages/images/PigLatinConverter.png?raw=true)
 
-[Source Code](https://github.com/RylekStaker/programmingportfolio2021-2022/blob/gh-pages/src/PigLatin.cpp)
+* [Source Code](https://github.com/RylekStaker/programmingportfolio2021-2022/blob/gh-pages/src/PigLatin.cpp)
 
