@@ -14,7 +14,7 @@ Basic Hangman program on command line. Guess the secret word before you run out 
 
 ![FallGuy](https://github.com/RylekStaker/programmingportfolio2021-2022/blob/gh-pages/images/FallGuy.png?raw=true)
 
-[Source Code](https://github.com/RylekStaker/programmingportfolio2021-2022/blob/gh-pages/src/FallGuy.cpp)
+* [Source Code](https://github.com/RylekStaker/programmingportfolio2021-2022/blob/gh-pages/src/FallGuy.cpp)
 
 ## Processing Projects
 
