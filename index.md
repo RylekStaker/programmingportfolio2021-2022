@@ -56,14 +56,6 @@ A Command line program that will convert any word to Pig Latin.
 
 A Command line program that will calculate the area of 3 different shapes.
 
-![ShapeTester](### Pig Latin Converter
-
-#### Completed Early 2022
-
-A Command line program that will convert any word to Pig Latin.
-
-![PigLatinConverter](https://github.com/RylekStaker/programmingportfolio2021-2022/blob/gh-pages/images/PigLatinConverter.png?raw=true)
-
-* [Source Code](https://github.com/RylekStaker/programmingportfolio2021-2022/blob/gh-pages/src/PigLatin.cpp)
+![ShapeTester]()
 
 * [Source Code](https://github.com/RylekStaker/programmingportfolio2021-2022/blob/gh-pages/src/ShapeTester.cpp)
